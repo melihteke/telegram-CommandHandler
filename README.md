@@ -42,6 +42,9 @@ python main.py
 
 This bot already removed. So the token you see above does not work.
 
+![image](https://github.com/user-attachments/assets/a035f941-cfa0-4598-b397-6c7f4a080760)
+
+
 5. You can see the token value now
 
 Once the bot is running, you can interact with it by sending /hello or /ping commands in the chat.
