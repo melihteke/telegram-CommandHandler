@@ -28,10 +28,12 @@ python main.py
 ```
 
 ## Telegram Settings
-1. Search "BotFather"
+1. Search for "BotFather"
+   
 ![image](https://github.com/user-attachments/assets/f3f35b70-30b8-4eea-815b-c2cdcc83a166)
 
-3. Check all the commands by typing"/help"
+3. Check all the commands by typing "/help"
+
 ![image](https://github.com/user-attachments/assets/087f8bb3-43d8-49b9-9db5-33711247a1c0)
 
 
