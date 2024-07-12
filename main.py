@@ -15,7 +15,7 @@ async def ping_google(update: Update, context: ContextTypes.DEFAULT_TYPE) -> Non
 
 
 
-app = ApplicationBuilder().token("6935929131:AAETTYK3-wnt6OxOHvMLkiJQRRY2lweiXfc").build()
+app = ApplicationBuilder().token("TOKEN:TOKEN").build()
 
 app.add_handler(CommandHandler("hello", hello))
 app.add_handler(CommandHandler("ping", ping_google))
