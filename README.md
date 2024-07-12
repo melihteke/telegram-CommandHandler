@@ -27,6 +27,15 @@ Execute the script to start the bot:
 python main.py
 ```
 
+## Telegram Settings
+1. Search "BotFather"
+![image](https://github.com/user-attachments/assets/f3f35b70-30b8-4eea-815b-c2cdcc83a166)
+2. Check all the commands by typing"/help"
+![image](https://github.com/user-attachments/assets/087f8bb3-43d8-49b9-9db5-33711247a1c0)
+
+
+
+
 Once the bot is running, you can interact with it by sending /hello or /ping commands in the chat.
 
 ## Security Note
