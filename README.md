@@ -40,7 +40,7 @@ python main.py
 
 ![image](https://github.com/user-attachments/assets/95667bae-23a8-484b-b423-6d2a508900df)
 
-This bot already removed. So the token you see above do not work.
+This bot already removed. So the token you see above does not work.
 
 5. You can see the token value now
 
