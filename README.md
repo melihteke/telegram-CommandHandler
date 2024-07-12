@@ -36,8 +36,12 @@ python main.py
 
 ![image](https://github.com/user-attachments/assets/087f8bb3-43d8-49b9-9db5-33711247a1c0)
 
+4. Execute "/newbot" command on telegram console and follow up the menu
 
+![image](https://github.com/user-attachments/assets/95667bae-23a8-484b-b423-6d2a508900df)
+This bot already removed. So the token you see above do not work.
 
+5. You can see the token value now
 
 Once the bot is running, you can interact with it by sending /hello or /ping commands in the chat.
 
