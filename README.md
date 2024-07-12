@@ -1,4 +1,4 @@
-# telegramBot-CommandHandler
+;# telegramBot-CommandHandler
 
 This Python project creates a simple Telegram bot using the python-telegram-bot library. The bot is capable of responding to two commands: /hello and /ping. The /hello command greets the user by name, while the /ping command performs a ping to Google's public DNS (8.8.8.8) and returns the output to the user.
 
@@ -39,6 +39,7 @@ python main.py
 4. Execute "/newbot" command on telegram console and follow up the menu
 
 ![image](https://github.com/user-attachments/assets/95667bae-23a8-484b-b423-6d2a508900df)
+
 This bot already removed. So the token you see above do not work.
 
 5. You can see the token value now
